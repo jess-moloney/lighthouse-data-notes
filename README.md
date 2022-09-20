@@ -7,5 +7,6 @@ This repository contains all of the notes taken by [Jessica](https://github.com/
 
 * [Week 1](/Unit_1/)
     * [Day 1](/Unit_1/Day_1/)
-
+    * [Day 2](/Unit_1/Day_1/)
+    
 
