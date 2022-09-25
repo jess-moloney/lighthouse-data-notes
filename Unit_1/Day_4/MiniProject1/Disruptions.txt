@@ -1,0 +1,112 @@
+[
+    {
+        "$type": "Tfl.Api.Presentation.Entities.Disruption, Tfl.Api.Presentation.Entities",
+        "category": "RealTime",
+        "type": "lineInfo",
+        "categoryDescription": "RealTime",
+        "description": "Bakerloo Line: Service will resume later this morning.\r\n ",
+        "affectedRoutes": [],
+        "affectedStops": [],
+        "closureText": "serviceClosed"
+    },
+    {
+        "$type": "Tfl.Api.Presentation.Entities.Disruption, Tfl.Api.Presentation.Entities",
+        "category": "RealTime",
+        "type": "lineInfo",
+        "categoryDescription": "RealTime",
+        "description": "Piccadilly Line: Service will resume later this morning.\r\n ",
+        "affectedRoutes": [],
+        "affectedStops": [],
+        "closureText": "serviceClosed"
+    },
+    {
+        "$type": "Tfl.Api.Presentation.Entities.Disruption, Tfl.Api.Presentation.Entities",
+        "category": "RealTime",
+        "type": "lineInfo",
+        "categoryDescription": "RealTime",
+        "description": "Victoria Line: Service will resume later this morning.\r\n ",
+        "affectedRoutes": [],
+        "affectedStops": [],
+        "closureText": "serviceClosed"
+    },
+    {
+        "$type": "Tfl.Api.Presentation.Entities.Disruption, Tfl.Api.Presentation.Entities",
+        "category": "RealTime",
+        "type": "lineInfo",
+        "categoryDescription": "RealTime",
+        "description": "Waterloo and City Line: Service will resume at 06:00.\r\n ",
+        "affectedRoutes": [],
+        "affectedStops": [],
+        "closureText": "serviceClosed"
+    },
+    {
+        "$type": "Tfl.Api.Presentation.Entities.Disruption, Tfl.Api.Presentation.Entities",
+        "category": "RealTime",
+        "type": "lineInfo",
+        "categoryDescription": "RealTime",
+        "description": "Circle Line: Service will resume later this morning.\r\n ",
+        "affectedRoutes": [],
+        "affectedStops": [],
+        "closureText": "serviceClosed"
+    },
+    {
+        "$type": "Tfl.Api.Presentation.Entities.Disruption, Tfl.Api.Presentation.Entities",
+        "category": "RealTime",
+        "type": "lineInfo",
+        "categoryDescription": "RealTime",
+        "description": "District Line: Service will resume later this morning.\r\n ",
+        "affectedRoutes": [],
+        "affectedStops": [],
+        "closureText": "serviceClosed"
+    },
+    {
+        "$type": "Tfl.Api.Presentation.Entities.Disruption, Tfl.Api.Presentation.Entities",
+        "category": "RealTime",
+        "type": "lineInfo",
+        "categoryDescription": "RealTime",
+        "description": "Hammersmith and City Line: Service will resume later this morning.\r\n ",
+        "affectedRoutes": [],
+        "affectedStops": [],
+        "closureText": "serviceClosed"
+    },
+    {
+        "$type": "Tfl.Api.Presentation.Entities.Disruption, Tfl.Api.Presentation.Entities",
+        "category": "RealTime",
+        "type": "lineInfo",
+        "categoryDescription": "RealTime",
+        "description": "Jubilee Line: Service will resume later this morning.\r\n ",
+        "affectedRoutes": [],
+        "affectedStops": [],
+        "closureText": "serviceClosed"
+    },
+    {
+        "$type": "Tfl.Api.Presentation.Entities.Disruption, Tfl.Api.Presentation.Entities",
+        "category": "RealTime",
+        "type": "lineInfo",
+        "categoryDescription": "RealTime",
+        "description": "Metropolitan Line: Service will resume later this morning.\r\n ",
+        "affectedRoutes": [],
+        "affectedStops": [],
+        "closureText": "serviceClosed"
+    },
+    {
+        "$type": "Tfl.Api.Presentation.Entities.Disruption, Tfl.Api.Presentation.Entities",
+        "category": "RealTime",
+        "type": "lineInfo",
+        "categoryDescription": "RealTime",
+        "description": "Northern Line: Service will resume later this morning.\r\n ",
+        "affectedRoutes": [],
+        "affectedStops": [],
+        "closureText": "serviceClosed"
+    },
+    {
+        "$type": "Tfl.Api.Presentation.Entities.Disruption, Tfl.Api.Presentation.Entities",
+        "category": "RealTime",
+        "type": "lineInfo",
+        "categoryDescription": "RealTime",
+        "description": "Central Line: Service will resume later this morning.\r\n ",
+        "affectedRoutes": [],
+        "affectedStops": [],
+        "closureText": "serviceClosed"
+    }
+]
