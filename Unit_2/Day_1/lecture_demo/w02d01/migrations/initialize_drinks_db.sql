@@ -1,0 +1,4 @@
+CREATE DATABASE drinks;
+
+CREATE USER lhl_student WITH ENCRYPTED PASSWORD 'lhl_password';
+GRANT ALL PRIVILEGES ON DATABASE drinks TO lhl_student;

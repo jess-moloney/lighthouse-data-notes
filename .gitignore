@@ -1,0 +1,17 @@
+# Ignore jupyter notebook checkpoints
+
+.ipynb_checkpoints
+**/.ipynb_checkpoints/**
+
+# Ignore data files
+
+.txt
+.csv
+.xlsx
+.json
+.xml
+**/data/**
+
+
+
+
