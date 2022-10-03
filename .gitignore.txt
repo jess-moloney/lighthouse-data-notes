@@ -1,0 +1,9 @@
+# Ignore jupyter notebook checkpoints
+
+.ipynb_checkpoints
+**/.ipynb_checkpoints/**
+
+# Text files
+
+.txt
+

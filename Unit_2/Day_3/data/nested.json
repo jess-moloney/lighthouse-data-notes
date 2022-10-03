@@ -1,0 +1,25 @@
+{
+   "article": [
+
+      {
+         "id":"01",
+         "language": "JSON",
+         "edition": "first",
+         "author": "Jane Doe"
+      },
+
+      {
+         "id":"02",
+         "language": "Python",
+         "edition": "second",
+         "author": "Mike"
+      }
+   ],
+
+   "blog":[
+   {
+       "name": "LHL",
+       "URL":"LighthouseLabs.com"
+   }
+   ]
+}
