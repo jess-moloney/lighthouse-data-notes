@@ -20,6 +20,8 @@ This repository contains all of the notes taken by [Jessica](https://github.com/
     * [Day 5 - Regex](Unit_2\Day_5)
 * [Week 3](Unit_3)
     * [Day 1 - Matplotlib, Seaborn, Plotly](Unit_3\Day_1)
+    * [Day 2 - Matplotlib, Geopandas, Plotly](Unit_3\Day_2)
+    
 
 
 
