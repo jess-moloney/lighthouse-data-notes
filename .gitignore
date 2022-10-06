@@ -9,6 +9,7 @@
 *.xlsx
 *.json
 *.xml
+*.zip
 **/data/**
 
 
