@@ -29,6 +29,15 @@ This repository contains all of the notes taken by [Jessica](https://github.com/
     * [Day 3 - Linear Regression](Unit_4/Day_3)
     * [Day 4 - Gradient Descent, Ridge & Lasso Regression](Unit_4/Day_4)
     * [Day 6 - Classes in Python](Unit_4/Day_6)
-
+* [Week 5](Unit_5/)
+    * [Day 1 - Train/Test, GridSearch, Model Evalution](Unit_5/Day_1/)
+    * [Day 2 - Logistic Regression](Unit_5/Day_2/)
+    * [Day 3 - Ensemble Methods](Unit_5/Day_3/)
+    * [Day 4 - SVM, NB](Unit_5/Day_4/)
+* [Week 7](Unit_7/)
+    * [Day 1 - Pipelines & Persistence](Unit_7/Day_1/)
+    * [Day 2 - Model Deployment](Unit_7/Day_2/)
+    * [Day 3 - MongoDB, Docker, PySpark](Unit_7/Day_3/)
+    
 
 
